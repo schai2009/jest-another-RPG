@@ -1,0 +1,22 @@
+{
+  "name": "jest-rpg",
+  "version": "1.0.0",
+  "description": "RPG demo for testing objects",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schai2009/jest-another-RPG.git"
+  },
+  "keywords": [
+    "jest"
+  ],
+  "author": "Chai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/schai2009/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/schai2009/jest-another-RPG#readme"
+}
